@@ -14,10 +14,10 @@ Neste guia, você aprenderá como instalar o driver adequado para garantir que s
 ## 📸 Imagens das Placas
 
 - **NodeMCU ESP8266 V2**  
-  ![V2](https://www.robocore.net/tutoriais/upload/tutoriais/163_img_9_M.png)
+  ![V2](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_9_M.png)
 
 - **NodeMCU ESP8266 V3**  
-  ![V3](https://www.robocore.net/tutoriais/upload/tutoriais/163_img_10_M.png)
+  ![V3](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_10_M.png)
 
 ---
 
@@ -28,7 +28,7 @@ O sistema operacional tentará instalar o driver automaticamente. Caso não cons
 
 🔍 Se não for detectado, o Gerenciador de Dispositivos mostrará um item com erro, como na imagem abaixo:
 
-![Sem driver](https://www.robocore.net/upload/tutoriais/163_img_8_H.png)
+![Sem driver](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_8_H.png)
 
 ---
 
@@ -47,11 +47,11 @@ O sistema operacional tentará instalar o driver automaticamente. Caso não cons
 2. Execute o instalador correspondente à versão do seu sistema (32 ou 64 bits) como **Administrador**:
    - Clique com o botão direito no instalador → `Executar como administrador`.
 
-![Instalador](https://www.robocore.net/upload/tutoriais/163_img_1_H.png)
+![Instalador](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_1_H.png)
 
 3. Siga o processo de instalação.
 
-![Instalado com sucesso](https://www.robocore.net/upload/tutoriais/163_img_3_H.png)
+![Instalado com sucesso](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_3_H.png)
 
 ✅ **Pronto!** Sua placa está pronta para uso.
 
@@ -70,11 +70,11 @@ O sistema operacional tentará instalar o driver automaticamente. Caso não cons
 1. Extraia os arquivos `.zip`.
 2. Execute o instalador como **Administrador** e clique em `INSTALL`.
 
-![Instalador CH340G](https://www.robocore.net/upload/tutoriais/163_img_6_H.png)
+![Instalador CH340G](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_6_H.png)
 
 3. Após concluir, clique em `OK`.
 
-![Instalação concluída](https://www.robocore.net/upload/tutoriais/163_img_7_H.png)
+![Instalação concluída](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_7_H.png)
 
 ✅ **Pronto!** A placa está pronta para comunicação.
 
@@ -84,7 +84,7 @@ O sistema operacional tentará instalar o driver automaticamente. Caso não cons
 
 Após conectar sua placa, acesse o **Gerenciador de Dispositivos** do Windows para identificar a **porta COM** atribuída:
 
-![Porta COM](https://www.robocore.net/upload/tutoriais/163_img_5_H.png)
+![Porta COM](https://raw.githubusercontent.com/Pugn0/guia-instalacao-nodeMCU-Driver/refs/heads/main/img/163_img_5_H.png)
 
 ---
 
